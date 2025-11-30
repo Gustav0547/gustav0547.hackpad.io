@@ -1,11 +1,30 @@
 # gustav0547.hackpad.io
+# Jason's Hackpad
+
 Macropad with 16 buttons, 15 to run shortcuts, 1 to swap between sets of keys, and a screen to display what set of keys is active.
-Designed to submit for the Blueprint Hackclub Project
-Hackpad Case Top V2.step is the top case for the macropad
-Hackpad Case V1.step is the bottom case for the macropad
-Jason's Hackpad.kicad_pcb is the PCB file for the macropad
-Jason's Hackpad.kicad_sch is the schematic for the macropad
-Screenshot(3) is a screenshot of the Bottom Case
-Screenshot(4) is a screenshot of the Top Case
-Screenshot(5) is a screenshot of the PCB File
-Screenshot(6) is a screenshot of the Schematic
+
+## Bottom Case
+
+![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(3).png?raw=true)
+
+## Top Case
+
+![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(4).png?raw=true)
+
+## PCB File
+
+![App Sreenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(5).png?raw=true)
+
+## Schematic
+
+![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(6).png?raw=true)
+## Features
+
+- 16 Buttons in a matrix
+    - 15 for macro keys
+    - 1 to switch sets of active macro keys
+- 0.91" OLED Display to show active keyset
+- Diodes to prevent ghosting
+- XIAO-RP2040 microcontroller
+- 3D printed enclosure
+
