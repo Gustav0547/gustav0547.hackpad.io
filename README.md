@@ -3,21 +3,23 @@
 
 Macropad with 16 buttons, 15 to run shortcuts, 1 to swap between sets of keys, and a screen to display what set of keys is active.
 
-## Bottom Case
+## [Bottom Case](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Hackpad%20Case%20V1.step)
 
 ![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(3).png?raw=true)
 
-## Top Case
+
+## [Top Case](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Hackpad%20Case%20Top%20V2.step)
 
 ![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(4).png?raw=true)
 
-## PCB File
+## [PCB File](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Jason's%20Hackpad.kicad_pcb)
 
 ![App Sreenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(5).png?raw=true)
 
-## Schematic
+## [Schematic](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Jason's%20Hackpad.kicad_sch)
 
 ![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(6).png?raw=true)
+
 ## Features
 
 - 16 Buttons in a matrix
