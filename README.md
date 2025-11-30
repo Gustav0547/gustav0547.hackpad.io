@@ -7,7 +7,9 @@ Macropad with 16 buttons, 15 to run shortcuts, 1 to swap between sets of keys, a
 
 ![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(3).png?raw=true)
 Bottom Case with PCB
-![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%202025-11-29%20223746.png?raw=true)
+![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%202025-11-30%20150349.png?raw=true)
+Full Assembly
+![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%202025-11-30%20150324.png?raw=true)
 
 ## [Top Case](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Hackpad%20Case%20Top%20V2.step)
 
