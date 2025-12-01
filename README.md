@@ -3,25 +3,25 @@
 
 Macropad with 16 buttons, 15 to run shortcuts, 1 to swap between sets of keys, and a screen to display what set of keys is active.
 
-## [Bottom Case](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Hackpad%20Case%20V1.step)
+## [Bottom Case](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/cad/Hackpad%20Case%20V1.step)
 
-![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(3).png?raw=true)
+![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/screenshots/Screenshot%20(3).png?raw=true)
 Bottom Case with PCB
-![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%202025-11-30%20150349.png?raw=true)
+![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/screenshots/Screenshot%202025-11-30%20150349.png?raw=true)
 Full Assembly
-![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%202025-11-30%20150324.png?raw=true)
+![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/screenshots/Screenshot%202025-11-30%20150324.png?raw=true)
 
-## [Top Case](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Hackpad%20Case%20Top%20V2.step)
+## [Top Case](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/cad/Hackpad%20Case%20Top%20V2.step)
 
-![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(4).png?raw=true)
+![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/screenshots/Screenshot%20(4).png?raw=true)
 
-## [PCB File](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Jason's%20Hackpad.kicad_pcb)
+## [PCB File](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/kicad/Jason's%20Hackpad.kicad_pcb)
 
-![App Sreenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(5).png?raw=true)
+![App Sreenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/screenshots/Screenshot%20(5).png?raw=true)
 
-## [Schematic](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Jason's%20Hackpad.kicad_sch)
+## [Schematic](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/kicad/Jason's%20Hackpad.kicad_sch)
 
-![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/Screenshot%20(6).png?raw=true)
+![App Screenshot](https://github.com/Gustav0547/gustav0547.hackpad.io/blob/main/screenshots/Screenshot%20(6).png?raw=true)
 
 ## Features
 
