@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D5,D10,D16,D14,D15,D12,D3,D9,D2,D7,D13,D6,D4,D1,D8,D11";"D_DO-35_SOD27_P7.62mm_Horizontal";16;"1N4148";;;
+2;"SW5,SW6,SW16,SW2,SW15,SW12,SW3,SW11,SW9,SW7,SW10,SW14,SW8,SW13,SW1,SW4";"SW_Cherry_MX_1.00u_PCB";16;"SW_Push";;;
+3;"U2";"MDOB128032GV-WI";1;"I2C OLED 0.91 Display";;;
+4;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-SMD";;;
